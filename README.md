@@ -1,16 +1,20 @@
-## Hi there 👋
+![Codest-banner](https://github.com/user-attachments/assets/ac6c7d9e-7b8f-4214-a847-ebe9df5273e9)
+<h1 align="center">Hi 👋, I'm Vadim</h1>
 
-<!--
-**Code-est/Code-est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+1. Telegram: @Ready_To_PIay
+<h3 align="left">Languages and Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![lavrs-pytohn](https://github.com/user-attachments/assets/c44b2bcd-2576-4631-98c4-9d553ff7ab85) ![lavr-sqlite](https://github.com/user-attachments/assets/26239bac-f967-4c5d-aa86-e19a26649694) ![selenium-mini](https://github.com/user-attachments/assets/ee85f505-bc3c-4508-b327-624f562cc002)
+
+
+
+
+
+
+
+
