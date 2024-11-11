@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-![lavrs-pytohn](https://github.com/user-attachments/assets/c44b2bcd-2576-4631-98c4-9d553ff7ab85) ![lavr-sqlite](https://github.com/user-attachments/assets/26239bac-f967-4c5d-aa86-e19a26649694) ![selenium-mini](https://github.com/user-attachments/assets/ee85f505-bc3c-4508-b327-624f562cc002)
+![lavrs-pytohn](https://github.com/user-attachments/assets/c44b2bcd-2576-4631-98c4-9d553ff7ab85)![lavr-sqlite](https://github.com/user-attachments/assets/26239bac-f967-4c5d-aa86-e19a26649694)![selenium-mini](https://github.com/user-attachments/assets/ee85f505-bc3c-4508-b327-624f562cc002)
 
 
 
