@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-1. Telegram: @Ready_To_PIay
+1. Telegram: @@ReadyToPIay
 <h3 align="left">Languages and Tools:</h3>
 
 
