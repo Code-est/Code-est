@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-1. Telegram: @ReadyToPIay
+1. Telegram: @OneLoneStar
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -13,12 +13,6 @@
 
 
 
-
-![Python 50](https://github.com/user-attachments/assets/994d7d70-28c9-4055-9b28-91b8f82043bd)![Sqlite 50](https://github.com/user-attachments/assets/b7f2af5c-9b0c-465a-a242-3966d776938b)![selenium 50](https://github.com/user-attachments/assets/dbb33159-f0bc-40f4-bbe4-a35e019e6af4)
-
-
-
-
-
+![JS 50](https://github.com/user-attachments/assets/646707c8-379d-440c-bbd3-9b29389dde69)![Py 50](https://github.com/user-attachments/assets/a010a873-1bce-49c1-ba6a-5444bd962831)![Sqlite 50](https://github.com/user-attachments/assets/21156f01-20e9-4c71-80ba-d3619feeabeb)![selenium 50](https://github.com/user-attachments/assets/6a05455a-c088-406e-9724-0ff6dd240536)
 
 
