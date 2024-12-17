@@ -9,7 +9,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-![lavrs-pytohn](https://github.com/user-attachments/assets/c44b2bcd-2576-4631-98c4-9d553ff7ab85)![lavr-sqlite](https://github.com/user-attachments/assets/26239bac-f967-4c5d-aa86-e19a26649694)![selenium-mini](https://github.com/user-attachments/assets/ee85f505-bc3c-4508-b327-624f562cc002)
+
+
+
+
+
+![Python 50](https://github.com/user-attachments/assets/994d7d70-28c9-4055-9b28-91b8f82043bd)![Sqlite 50](https://github.com/user-attachments/assets/b7f2af5c-9b0c-465a-a242-3966d776938b)![selenium 50](https://github.com/user-attachments/assets/dbb33159-f0bc-40f4-bbe4-a35e019e6af4)
 
 
 
@@ -17,5 +22,3 @@
 
 
 
-
-![selenium-mini-ezgif com-resize](https://github.com/user-attachments/assets/0b31d894-46c2-41b7-a547-27fb40d78636)
